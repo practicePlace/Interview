@@ -6,7 +6,6 @@
 // 第五版： 取消
 
 
-
 var count = 1;
 var container = document.getElementById('container');
 
