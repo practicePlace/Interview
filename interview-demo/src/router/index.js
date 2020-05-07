@@ -30,6 +30,11 @@ const routes = [
     name: '29',
     component: Q29
   },
+  {
+    path: '/test',
+    name: '',
+    component: Question
+  },
 ]
 
 const router = new VueRouter({
